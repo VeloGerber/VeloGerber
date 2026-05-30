@@ -1,9 +1,4 @@
-### Travis Gerber
-
-Founder of [**AIEGIS**](https://aiegis.ie) — building the universal harness for autonomous AI agents.
-
-Identity. Governance. Visibility. Marketplace. One signed pipeline.
-Self-hosted. EU-sovereign. Built in Ireland.
+![Travis Gerber — Founder of AIEGIS](https://raw.githubusercontent.com/VeloGerber/VeloGerber/main/hero.png)
 
 ---
 
