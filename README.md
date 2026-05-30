@@ -1,16 +1,29 @@
-## Hi there 👋
+### Travis Gerber
 
-<!--
-**VeloGerber/VeloGerber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [**AIEGIS**](https://aiegis.ie) — building the universal harness for autonomous AI agents.
 
-Here are some ideas to get you started:
+Identity. Governance. Visibility. Marketplace. One signed pipeline.
+Self-hosted. EU-sovereign. Built in Ireland.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### What I'm working on
+
+- **[AIEGIS](https://github.com/AiEGIS-ie)** — agent passports (W3C VC 2.0 / did:web), 15-layer runtime governance, 5-year audit ledger, agent-to-agent marketplace.
+- **OWASP AIVSS enforcement-effectiveness** — [co-author, v0.1.1](https://github.com/aeoess/aivss-enforcement-effectiveness).
+- **OWASP Top 10 for Agentic Applications (2026)** — full coverage across all 10 categories.
+- **EU AI Act Article 26** — mapped per sub-paragraph in [the walkthrough](https://aiegis.ie/article-26-walkthrough).
+
+---
+
+#### Standards & regulations
+
+W3C VC 2.0 · W3C did:web · W3C Bitstring Status List v1.0 · IETF KERI · IETF SCITT · IETF SPIFFE Federation · OWASP AIVSS (co-author) · EU AI Act · GDPR · NIST AI RMF · Singapore MGAIF · South Africa POPIA
+
+---
+
+#### Get in touch
+
+- aiegis.ie — [aiegis.ie](https://aiegis.ie)
+- Email — [hello@aiegis.ie](mailto:hello@aiegis.ie)
+- Org — [@AiEGIS-ie](https://github.com/AiEGIS-ie)
